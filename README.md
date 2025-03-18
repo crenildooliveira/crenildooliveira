@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👨‍💻 Crenildo
 
-<!--
-**crenildooliveira/crenildooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Olá, sou Crenildo e vejo infinitas possibilidades para tecnologia, acredito que ela seja a base para todas as outras profissões no futuro. Irei fazer parte desta historia contribuindo com todo meu conhecimento.
+Mas não só por software, eu tenho grande interesse no hardware, além disso sempre que tenho a oportunidade de conhecer algo novo fico super empolgado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você encontra o inicio da minha jornada, seja bem-vindo.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=crenildo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crenildo&theme=tokyonight&layout=compact" alt="Top Langs" width="40%" />
+</p>
